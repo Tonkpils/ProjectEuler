@@ -3,6 +3,7 @@ Project Euler
 
 I decided to start tackling on some Euler Problems from [Project Euler](http://projecteuler.net). Ruby will be the main languages but as time permits, I will attempt the problems in other languages.
 
+![](http://projecteuler.net/profile/Tonkpils.png)
 
 **Spoiler Alert:** Do not browse around this repo unless you want to see how I solved some of the problems from the site. 
 
